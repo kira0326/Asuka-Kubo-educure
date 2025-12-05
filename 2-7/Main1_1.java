@@ -1,0 +1,12 @@
+public class Main1_1 {
+    public static void main(String[] args) {
+
+        int bento = 480;
+        int tea = 160;
+        int onigiri = 130;
+
+        int total = bento + tea + onigiri;
+
+        System.out.println("合計金額は" + total + "円です。");
+    }
+}
